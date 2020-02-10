@@ -1,0 +1,39 @@
+:root{
+    --color-1:#22BBD4;
+    --color-2:#2C6E78;
+    --color-3:dodgerblue;
+    --color-4:darkcyan;
+    --text-color:#fff;
+}
+.box{
+    border-radius: 3px;
+    border:1px solid var(--text-color);
+    color: var(--text-color);
+    font-size: 120%;
+    background-color: var(--color-1);
+    padding: 2em;
+}
+.box1{
+    border-radius: 3px;
+    border:1px solid var(--text-color);
+    color: var(--text-color);
+    font-size: 120%;
+    background-color: var(--color-2);
+    padding: 2em;
+}
+.box2{
+    border-radius: 3px;
+    border:1px solid var(--text-color);
+    color: var(--text-color);
+    font-size: 120%;
+    background-color: var(--color-3);
+    padding: 2em;
+}
+.box3{
+    border-radius: 3px;
+    border:1px solid var( --text-color);
+    color: var( --text-color);
+    font-size: 120%;
+    background-color: var(--color-4);
+    padding: 2em;
+}
